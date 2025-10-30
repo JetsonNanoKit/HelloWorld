@@ -40,7 +40,7 @@ This is a personal blog project for recording my life and work experiences. Here
 ### 固定时间记录
 - 选择一天中最适合的时间段（如早晨或睡前）
 - 利用碎片时间记录灵感和想法
-- 将记录时间与已有习惯绑定（如喝咖啡时记录）
+- 将记录时间与已有习惯绑定（如下班前记录）
 
 ### 选择容易获得成就感的内容
 - 记录解决问题的过程和方法
